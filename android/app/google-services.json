@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985682424544",
+    "project_id": "pinjam-sahabat-27afd",
+    "storage_bucket": "pinjam-sahabat-27afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985682424544:android:992f06c767b38a3118d685",
+        "android_client_info": {
+          "package_name": "com.example.sewa_barang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vlnyeYi5Mo14ePI6OgusKzI9rGPf8eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
